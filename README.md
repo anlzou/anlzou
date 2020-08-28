@@ -1,6 +1,15 @@
-### Hi there 👋
+# 求知若渴，虚心若愚。
+简单，专注。
 
-<!--
+## Tools
+
+>### [Awesome Open Source](https://awesomeopensource.com/)
+该网站对 GitHub 上的开源项目进行分类，共有7000多个类别。
+
+>### [socode.pd](https://socode.pro/)
+程序员的搜索工具，将各种网络资源汇总在一个搜索框里面。
+
+<!--2020年8月29日
 **anlzou/anlzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
