@@ -1,12 +1,8 @@
-# 求知若渴
-# 虚心若愚
+# 求知若渴 虚心若愚
 <details><summary>简单&专注</summary>
 1. C/C++/Golang
-
 2. Java
-
 3. JavaScript/TpyeScript
-
 4. Python
 </details>
 
