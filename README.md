@@ -2,8 +2,8 @@
 <details><summary>简单&专注</summary>
 
 - Java
-- JavaScript/TpyeScript
 - Python
+- JavaScript/TpyeScript
 - C/C++/Golang
 </details>
 
