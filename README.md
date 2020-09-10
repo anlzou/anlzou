@@ -1,10 +1,10 @@
 # 求知若渴 虚心若愚
 <details><summary>简单&专注</summary>
 
-- C/C++/Golang
 - Java
 - JavaScript/TpyeScript
 - Python
+- C/C++/Golang
 </details>
 
 ## Tools
