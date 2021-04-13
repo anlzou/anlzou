@@ -1,10 +1,14 @@
 # 求知若渴 虚心若愚
 <details><summary>简单&专注</summary>
 
+> 万物皆有裂痕，是光进来的地方。
+
+> 来日方长，何惧路远马亡。
+
 - Java
 - Python
 - JavaScript/TpyeScript
-- C/C++/Golang
+- C&C++/数据结构/算法分析/底层原理
 </details>
 
 ## Tools
