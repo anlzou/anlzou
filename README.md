@@ -9,6 +9,7 @@
 - Python
 - JavaScript/TpyeScript
 - C&C++/数据结构/算法分析/底层原理
+- History
 </details>
 
 ## Tools
